@@ -30,5 +30,17 @@
     <ClCompile Include="除法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="除法easy版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分蛋糕.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="学生排队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Markdown.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
