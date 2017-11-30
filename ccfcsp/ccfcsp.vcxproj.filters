@@ -42,5 +42,11 @@
     <ClCompile Include="Markdown.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最大波动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="火车购票.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

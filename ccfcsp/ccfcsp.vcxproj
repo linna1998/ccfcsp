@@ -152,6 +152,8 @@
     <ClCompile Include="Markdown.cpp" />
     <ClCompile Include="分蛋糕.cpp" />
     <ClCompile Include="学生排队.cpp" />
+    <ClCompile Include="最大波动.cpp" />
+    <ClCompile Include="火车购票.cpp" />
     <ClCompile Include="通信网络.cpp" />
     <ClCompile Include="除法.cpp" />
     <ClCompile Include="除法easy版.cpp" />
