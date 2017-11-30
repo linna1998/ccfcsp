@@ -1,5 +1,4 @@
 //// 201609-1
-//// Waiting to be checked.
 //#include <iostream>
 //#include <algorithm>
 //using namespace std;

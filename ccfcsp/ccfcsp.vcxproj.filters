@@ -51,5 +51,14 @@
     <ClCompile Include="炉石传说.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="交通规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="交通规划with模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="祭坛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

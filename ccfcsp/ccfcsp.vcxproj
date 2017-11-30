@@ -150,11 +150,14 @@
     <ClCompile Include="201709-2.cpp" />
     <ClCompile Include="JSON查询.cpp" />
     <ClCompile Include="Markdown.cpp" />
+    <ClCompile Include="交通规划.cpp" />
+    <ClCompile Include="交通规划with模板.cpp" />
     <ClCompile Include="分蛋糕.cpp" />
     <ClCompile Include="学生排队.cpp" />
     <ClCompile Include="最大波动.cpp" />
     <ClCompile Include="火车购票.cpp" />
     <ClCompile Include="炉石传说.cpp" />
+    <ClCompile Include="祭坛.cpp" />
     <ClCompile Include="通信网络.cpp" />
     <ClCompile Include="除法.cpp" />
     <ClCompile Include="除法easy版.cpp" />

@@ -1,5 +1,4 @@
 ////201609-3
-//// Waiting to be checked.
 //#include <iostream>
 //#include <string>
 //#include <vector>

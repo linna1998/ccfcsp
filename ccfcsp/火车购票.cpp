@@ -1,5 +1,4 @@
 //// 201609-2
-//// Waiting to be checked.
 //#include <iostream>
 //#include <vector>
 //using namespace std;
@@ -56,6 +55,13 @@
 //{
 //	int n = 0;
 //	int num = 0;
+//	for (int i = 0; i < 20; i++)
+//	{
+//		for (int j = 0; j < 5; j++)
+//		{
+//			filled[i][j] = false;
+//		}
+//	}
 //	cin >> n;
 //	for (int i = 0; i < n; i++)
 //	{
