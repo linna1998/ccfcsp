@@ -48,5 +48,8 @@
     <ClCompile Include="火车购票.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="炉石传说.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
