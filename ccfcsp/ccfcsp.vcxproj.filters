@@ -60,5 +60,14 @@
     <ClCompile Include="祭坛.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="中间数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="工资计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="权限查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
