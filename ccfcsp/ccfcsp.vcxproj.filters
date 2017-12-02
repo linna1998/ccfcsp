@@ -69,5 +69,8 @@
     <ClCompile Include="权限查询.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="压缩编码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

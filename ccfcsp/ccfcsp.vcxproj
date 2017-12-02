@@ -154,6 +154,7 @@
     <ClCompile Include="交通规划.cpp" />
     <ClCompile Include="交通规划with模板.cpp" />
     <ClCompile Include="分蛋糕.cpp" />
+    <ClCompile Include="压缩编码.cpp" />
     <ClCompile Include="学生排队.cpp" />
     <ClCompile Include="工资计算.cpp" />
     <ClCompile Include="最大波动.cpp" />
